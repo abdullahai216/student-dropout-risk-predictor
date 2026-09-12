@@ -1,0 +1,8 @@
+streamlit==1.61.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+joblib==1.4.2
+matplotlib>=3.9.1
+mysql-connector-python==9.0.0
+SQLAlchemy==2.0.31
